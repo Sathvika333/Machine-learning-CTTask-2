@@ -25,4 +25,7 @@ The analysis also identifies potential limitations and next steps for improvemen
 
 
 outputs:
-
+![Image](https://github.com/user-attachments/assets/10f95f82-f1ef-449a-b356-b12f79eea687)
+![Image](https://github.com/user-attachments/assets/745623df-99b4-4336-b82d-447b1e4e6355)
+![Image](https://github.com/user-attachments/assets/3b833876-ac47-478c-8611-7c3f6ac8abe8)
+![Image](https://github.com/user-attachments/assets/56b980cf-eea6-42f5-a891-098adbe8d611)
